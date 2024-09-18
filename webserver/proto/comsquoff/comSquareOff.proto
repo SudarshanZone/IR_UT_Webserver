@@ -1,0 +1,68 @@
+// protoc --proto_path=proto --go_out=generated --go-grpc_out=generated proto/commo.proto
+// protoc --proto_path=internal --go_out=generated --go-grpc_out=generated internal/positions/fno_pos.proto
+//protoc --proto_path=proto --go_out=generated --go-grpc_out=generated proto/commo.proto
+syntax = "proto3";
+
+package comsquoff;
+
+option go_package=".";
+service Squareoff{
+    rpc Squareoff(SquareoffRequest) returns(SquareoffResponse);
+}
+
+
+// Message for CCP table
+message ccp_cod_spn_cntrct_pstn {
+  string ccp_clm_mtch_accnt = 1; // character(10)
+  string ccp_xchng_cd = 2;       // character(3)
+  string ccp_prdct_typ = 3;      // character(1)
+  string ccp_indstk = 4;         // character(1)
+  string ccp_undrlyng = 5;       // character(6)
+  string ccp_expry_dt = 6;       // timestamp without time zone
+  string ccp_exer_typ = 7;       // character(1)
+  int64 ccp_strk_prc = 8;        // bigint
+  string ccp_opt_typ = 9;        // character(1)
+  int64 ccp_ibuy_qty = 10;       // bigint
+  double ccp_ibuy_ord_val = 11;  // numeric(24,2)
+  int64 ccp_isell_qty = 12;      // bigint
+  double ccp_isell_ord_val = 13; // numeric(24,2)
+  int64 ccp_exbuy_qty = 14;      // bigint
+  double ccp_exbuy_ord_val = 15; // numeric(24,2)
+  int64 ccp_exsell_qty = 16;     // bigint
+  double ccp_exsell_ord_val = 17;// numeric(24,2)
+  int64 ccp_buy_exctd_qty = 18;  // bigint
+  int64 ccp_sell_exctd_qty = 19; // bigint
+  string ccp_opnpstn_flw = 20;   // character(1)
+  int64 ccp_opnpstn_qty = 21;    // bigint
+  double ccp_opnpstn_val = 22;   // numeric(24,2)
+  int64 ccp_exrc_qty = 23;       // bigint
+  int64 ccp_asgnd_qty = 24;      // bigint
+  double ccp_opt_premium = 25;   // numeric(24,2)
+  double ccp_mtm_opn_val = 26;   // numeric(24,2)
+  double ccp_imtm_opn_val = 27;  // numeric(24,2)
+  double ccp_extrmloss_mrgn = 28;// numeric(24,2)
+    double ccp_addnl_mrgn = 29;    // numeric(24,2)
+    double ccp_spcl_mrgn = 30;     // numeric(24,2)
+    double ccp_tndr_mrgn = 31;     // numeric(24,2)
+    double ccp_dlvry_mrgn = 32;    // numeric(24,2)
+    double ccp_extrm_min_loss_mrgn = 33; // numeric(24,2)
+    string ccp_mtm_flg = 34;       // character(1)
+    double ccp_ext_loss_mrgn = 35; // Renamed field to avoid conflict
+  double ccp_flat_val_mrgn = 36;      // numeric(24,2)
+  double ccp_trg_prc = 37;       // double precision
+  double ccp_min_trg_prc = 38;   // double precision
+  double ccp_devolmnt_mrgn = 39; // numeric(24,2)
+  int32 ccp_mtmsq_ordcnt = 40;   // integer
+  double ccp_avg_prc = 41;    
+}
+
+message SquareoffRequest{
+     ccp_cod_spn_cntrct_pstn ccp = 1;
+    string CCP_USR_ID = 2;
+    string CCP_PRDCT_TYP = 3;
+    // repeated FnoData Cdata = 3;
+}
+
+message SquareoffResponse{
+  bool success = 1;
+}

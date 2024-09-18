@@ -1,0 +1,30 @@
+2024-09-13 10:12:21 : Web server is running on :8080
+2024-09-13 10:12:45 : Received request to fetch Positions details for UCCID: 8989890000
+2024-09-13 10:12:49 : Successfully fetched order details for UCCID: 8989890000
+2024-09-13 10:30:10 : Web server is running on :8080
+2024-09-13 10:30:29 : Web server is running on :8080
+2024-09-13 10:33:06 : Received request for account: 8509041984
+2024-09-13 10:33:06 : Calling GetOrder on gRPC client...
+2024-09-13 10:33:06 : Order details found for account: 8509041984
+2024-09-13 10:37:02 : Web server is running on :8080
+2024-09-13 10:49:56 : Web server is running on :8080
+2024-09-13 10:51:04 : Received request to fetch Positions details for UCCID: 8989890000
+2024-09-13 10:51:08 : Successfully fetched order details for UCCID: 8989890000
+2024-09-13 10:51:08 : 
+2024-09-13 10:52:31 : Web server is running on :8080
+2024-09-13 10:52:39 : Received request to fetch Positions details for UCCID: 8989890000
+2024-09-13 10:52:44 : Successfully fetched order details for UCCID: 8989890000
+2024-09-13 10:52:44 : &{0xc0003f8480 map[client_ip:[::1]:54963 duration:4229.79 method:GET path:/getFNOPosition/8989890000 referrer: request_id: status:200 user_id:] 0001-01-01 00:00:00 +0000 UTC panic <nil>  <nil> <nil> }
+2024-09-13 10:52:44 : 
+2024-09-13 10:54:26 : Web server is running on :8080
+2024-09-13 10:54:39 : Received request to fetch Positions details for UCCID: 8989890000
+2024-09-13 10:54:42 : Successfully fetched order details for UCCID: 8989890000
+2024-09-13 10:54:42 : &{0xc00051a400 map[duration:3249.16 method:GET path:/getFNOPosition/8989890000 request_id: status:200] 0001-01-01 00:00:00 +0000 UTC panic <nil>  <nil> <nil> }
+2024-09-13 10:54:42 : 
+2024-09-13 11:04:59 : Web server is running on :8080
+2024-09-13 11:05:53 : Received request for account: 8509041984
+2024-09-13 11:05:53 : Calling GetOrder on gRPC client...
+2024-09-13 11:05:54 : Error fetching order details: rpc error: code = Unknown desc = commodity order details not found
+2024-09-13 11:35:59 : Web server is running on :8080
+2024-09-13 12:12:51 : Web server is running on :8080
+2024-09-13 14:41:26 : Web server is running on :8080

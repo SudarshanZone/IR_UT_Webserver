@@ -1,0 +1,23 @@
+2024-09-18 00:09:05 : Web server is running on :8080
+2024-09-18 00:14:04 : Received request to fetch Positions details for UCCID: 8500172697
+2024-09-18 00:14:04 : Successfully fetched order details for UCCID: 8500172697
+2024-09-18 00:14:08 : Received request to fetch Positions details for UCCID: 8500172697
+2024-09-18 00:14:08 : Successfully fetched order details for UCCID: 8500172697
+2024-09-18 00:14:10 : Received request to fetch Positions details for UCCID: 8500172697
+2024-09-18 00:14:10 : Successfully fetched order details for UCCID: 8500172697
+2024-09-18 00:21:41 : Received request to fetch Positions details for UCCID: 8500172697
+2024-09-18 00:21:44 : Successfully fetched order details for UCCID: 8500172697
+2024-09-18 00:22:55 : Received request to fetch Positions details for UCCID: 8500172697
+2024-09-18 00:22:57 : Successfully fetched order details for UCCID: 8500172697
+2024-09-18 00:37:03 : Received request to fetch Positions details for UCCID: 8500172697
+2024-09-18 00:37:05 : Successfully fetched order details for UCCID: 8500172697
+2024-09-18 00:40:08 : Received request to fetch Positions details for UCCID: 8500172697
+2024-09-18 00:40:13 : Error fetching FNO positions: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+2024-09-18 00:40:33 : Received request to fetch Positions details for UCCID: 8500172697
+2024-09-18 00:40:34 : Successfully fetched order details for UCCID: 8500172697
+2024-09-18 00:43:42 : Received request to fetch Positions details for UCCID: 8500172697
+2024-09-18 00:43:44 : Successfully fetched order details for UCCID: 8500172697
+2024-09-18 10:18:12 : Web server is running on :8080
+2024-09-18 10:18:29 : Received request to fetch Positions details for UCCID: 8500172697
+2024-09-18 10:18:32 : Successfully fetched order details for UCCID: 8500172697
+2024-09-18 10:36:17 : Web server is running on :8080

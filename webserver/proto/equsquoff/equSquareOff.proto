@@ -1,0 +1,116 @@
+syntax = "proto3";
+
+package equsquoff;
+
+option go_package=".";
+
+
+service Squreoff {
+    rpc Squareoff_Epb(Epb_SquareoffRequest) returns(Epb_SquareoffResponse)   ;
+    rpc Squareoff_Otp(Opt_SquareoffRequest) returns(Otp_SquareoffResponse)   ;
+
+}
+
+message OtpEq{
+string     OtpClmMtchAcct         = 1   ; 
+string     OtpXchngCd             = 2  ; 
+string     OtpXchngSgmntCd        = 3  ; 
+int64      OtpXchngSgmntSttlmnt   = 4  ; 
+string     OtpStckCd              = 5  ; 
+string     OtpFlw                 = 6  ; 
+int64      OtpQty                 = 7  ; 
+int64      OtpCnvrtDlvryQty       = 8  ; 
+int64      OtpCvrdQty             = 9  ; 
+float      OtpRt                  = 10  ; 
+float     OtpMrgnAmt             =  11;
+float     OtpTrdVal              =  12;
+string     OtpRmrks               = 13 ; 
+string     OtpXferMrgnStts        = 14 ; 
+string     OtpSellOpnPrccsd       = 15 ; 
+string     OtpBuyOpnPrccsd        = 16 ; 
+string     OtpMrgnSqroffMode      = 17 ; 
+string     OtpEmTrdspltPrcsFlg    = 18 ; 
+string     OtpMtmFlg              = 19 ; 
+string     OtpMtmCansq            = 20 ; 
+string     OtpEosCan              = 21 ; 
+float     OtpTrgrPrc             =  22;
+float     Otp_16TrgrPrc          =  23;
+float     OtpMinMrgn             =  24;
+}
+
+message EpbEq {
+    string  EpbClmMtchAccnt      = 1;  // character(10) NOT NULL
+    string  EpbXchngCd           = 2;  // character(3) NOT NULL
+    string  EpbXchngSgmntCd      = 3;  // character(2) NOT NULL
+    int64   EpbXchngSgmntSttlmnt = 4;  // integer NOT NULL
+    string  EpbStckCd            = 5;  // character(6) NOT NULL
+    int64   EpbOrgnlPstnQty      = 6;  // integer NOT NULL
+    float   EpbRate              = 7;  // double precision NOT NULL
+    float   EpbOrgnlAmtPayble    = 8;  // numeric(18,2) NOT NULL
+    float   EpbOrgnlMrgnAmt      = 9;  // numeric(18,2) NOT NULL
+    int64   EpbSellQty           = 10; // integer NOT NULL
+    int64   EpbCvrOrdQty         = 11; // integer NOT NULL
+    float   EpbNetMrgnAmt        = 12; // numeric(18,2) NOT NULL
+    float   EpbNetAmtPayble      = 14; // numeric(18,2) NOT NULL
+    int64   EpbNetPstnQty        = 15; // integer NOT NULL
+    int64   EpbCtdQty            = 16; // integer NOT NULL
+    string  EpbPstnStts          = 17; // character(1) NOT NULL
+    string  EpbLpcCalcStts       = 18; // character(1) NOT NULL
+    string  EpbSqroffMode        = 19; // character(1) NOT NULL
+    string  EpbPstnTrdDt         = 20; // timestamp(0) without time zone NOT NULL
+    string  EpbMtmPrcsFlg        = 21; // character(1) NOT NULL
+    string  EpbLastMdfcnDt       = 22; // timestamp(0) without time zone NOT NULL
+    string  EpbInsDate           = 23; // timestamp(0) without time zone NOT NULL
+    string  EpbCloseDate         = 24; // timestamp(0) without time zone
+    string  EpbSysFailFlg        = 25; // character(1) NOT NULL
+    string  EpbLastPymntDt       = 26; // timestamp(0) without time zone
+    string  EpbLpcCalcEndDt      = 27; // timestamp(0) without time zone
+    string  EpbMtmCansq          = 28; // character(1)
+    string  EpbExpiryDt          = 29; // timestamp(0) without time zone
+    float   EpbMinMrgn           = 30; // double precision
+    string  EpbMrgnDbcrPrcsFlg   = 31; // character(1)
+    string  EpbDpId              = 32; // character(8)
+    string  EpbDpClntId          = 33; // character(8)
+    string  EpbPledgeStts        = 34; // character(1)
+    float   EpbBtstNetMrgnAmt    = 35; // numeric(18,2)
+    float   EpbBtstMrgnBlckd     = 36; // numeric(18,2)
+    string  EpbBtstMrgnDbcrFlg   = 37; // character(1)
+    string  EpbBtstSgmntCd       = 38; // character(2)
+    int64   EpbBtstStlmnt        = 39; // integer
+    float   EpbBtstCshBlckd      = 40; // numeric(18,2)
+    float   EpbBtstSamBlckd      = 41; // numeric(18,2)
+    string  EpbBtstCalcDt        = 42; // timestamp(0) without time zone
+    string  EpbDbcrCalcDt        = 43; // timestamp(0) without time zone
+    string  EpbNsdlRefNo         = 44; // character varying(16)
+    string epb_mrgn_withheld_flg =45;
+}
+
+message Epb_SquareoffRequest {
+    EpbEq epb = 1;
+    
+    string id=5;
+    string type=6;
+    // repeated OtpEq all_otp = 9; 
+    // repeated EpbEq data = 10;   
+
+
+}
+message Epb_SquareoffResponse {
+    bool success = 1;
+    
+}
+
+
+message Opt_SquareoffRequest {
+    OtpEq otp = 4;
+    string id=5;
+    string type=6;
+    // repeated OtpEq all_otp = 9; 
+    // repeated EpbEq data = 10;   
+
+
+}
+message Otp_SquareoffResponse {
+    bool success = 1;
+    
+}

@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package usrlogin;
+
+option go_package = ".";
+
+service UserLoginService {
+    rpc Login(LoginRequest) returns (LoginResponse);
+}
+
+message LoginRequest {
+    string username = 1;
+    string password = 2;
+}
+
+message LoginResponse {
+    bool success = 1;
+    string message = 2;
+    string userType = 3;
+}

@@ -1,0 +1,65 @@
+syntax = "proto3";
+
+package comopn;
+
+option go_package = ".";
+
+// Service definition
+service CCPService {
+    rpc GetCCPData (CCPRequest) returns (CCPResponse);
+}
+
+
+// Request message containing only ccp_clm_mtch_accnt field
+message CCPRequest {
+    string ccp_clm_mtch_accnt = 1;
+}
+
+// Response message containing all the fields
+message CCPResponse {
+    repeated Commoditypositions commo=1;
+}
+
+message  Commoditypositions{
+    string ccp_clm_mtch_accnt = 1;
+    string ccp_xchng_cd = 2;
+    string ccp_prdct_typ = 3;
+    string ccp_indstk = 4;
+    string ccp_undrlyng = 5;
+    string ccp_expry_dt = 6;
+    string ccp_exer_typ = 7;
+    int64 ccp_strk_prc = 8;
+    string ccp_opt_typ = 9;
+    int64 ccp_ibuy_qty = 10;
+    double ccp_ibuy_ord_val = 11;
+    int64 ccp_isell_qty = 12;
+    double ccp_isell_ord_val = 13;
+    int64 ccp_exbuy_qty = 14;
+    double ccp_exbuy_ord_val = 15;
+    int64 ccp_exsell_qty = 16;
+    double ccp_exsell_ord_val = 17;
+    int64 ccp_buy_exctd_qty = 18;
+    int64 ccp_sell_exctd_qty = 19;
+    string ccp_opnpstn_flw = 20;
+    int64 ccp_opnpstn_qty = 21;
+    double ccp_opnpstn_val = 22;
+    int64 ccp_exrc_qty = 23;
+    int64 ccp_asgnd_qty = 24;
+    double ccp_opt_premium = 25;
+    double ccp_mtm_opn_val = 26;
+    double ccp_imtm_opn_val = 27;
+    double ccp_extrmloss_mrgn_extra = 28;
+    double ccp_addnl_mrgn = 29;
+    double ccp_spcl_mrgn = 30;
+    double ccp_tndr_mrgn = 31;
+    double ccp_dlvry_mrgn = 32;
+    double ccp_extrm_min_loss_mrgn = 33;
+    string ccp_mtm_flg = 34;
+    double ccp_extrm_loss_mrgn = 35;
+    double ccp_flat_val_mrgn = 36;
+    double ccp_trg_prc = 37;
+    double ccp_min_trg_prc = 38;
+    double ccp_devolmnt_mrgn = 39;
+    int32 ccp_mtmsq_ordcnt = 40;
+    double ccp_avg_prc = 41;
+}

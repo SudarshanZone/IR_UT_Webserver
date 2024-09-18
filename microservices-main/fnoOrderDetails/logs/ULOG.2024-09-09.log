@@ -1,0 +1,1083 @@
+2024-09-09 10:33:57 : Starting gRPC server on port 50052...
+2024-09-09 10:37:10 : OrderDetailsService: Started
+2024-09-09 10:37:10 : OrderDetailsService: @@@@@@@@@@@@@@@@ FETCH Orders  @@@@@@@@@@@@@@@@:
+2024-09-09 10:37:10 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-220000-PE
+2024-09-09 10:37:10 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:10 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:10 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:10 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:10 : OrderDetailsService: ORDER_PRICE: 240.000000
+2024-09-09 10:37:10 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:10 : 
+2024-09-09 10:37:10 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-220000-PE
+2024-09-09 10:37:10 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:10 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:10 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:10 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:10 : OrderDetailsService: ORDER_PRICE: 240.000000
+2024-09-09 10:37:10 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:10 : 
+2024-09-09 10:37:10 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-220000-PE
+2024-09-09 10:37:10 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:10 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:10 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:10 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:10 : OrderDetailsService: ORDER_PRICE: 240.000000
+2024-09-09 10:37:10 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:10 : 
+2024-09-09 10:37:10 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-220000-PE
+2024-09-09 10:37:10 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:10 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:10 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:10 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:10 : OrderDetailsService: ORDER_PRICE: 240.000000
+2024-09-09 10:37:10 : OrderDetailsService: OPEN: 900
+2024-09-09 10:37:10 : 
+2024-09-09 10:37:10 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-220000-PE
+2024-09-09 10:37:10 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:10 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:10 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:10 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:10 : OrderDetailsService: ORDER_PRICE: 240.000000
+2024-09-09 10:37:10 : OrderDetailsService: OPEN: 300
+2024-09-09 10:37:10 : 
+2024-09-09 10:37:10 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-220000-PE
+2024-09-09 10:37:10 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:10 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:10 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:10 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:10 : OrderDetailsService: ORDER_PRICE: 240.000000
+2024-09-09 10:37:10 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:10 : 
+2024-09-09 10:37:10 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-220000-PE
+2024-09-09 10:37:10 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:10 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:10 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:10 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:10 : OrderDetailsService: ORDER_PRICE: 240.000000
+2024-09-09 10:37:10 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:10 : 
+2024-09-09 10:37:10 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-220000-PE
+2024-09-09 10:37:10 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:10 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:10 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:10 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:10 : OrderDetailsService: ORDER_PRICE: 240.000000
+2024-09-09 10:37:10 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:10 : 
+2024-09-09 10:37:11 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-220000-PE
+2024-09-09 10:37:11 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:11 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:11 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:11 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:11 : OrderDetailsService: ORDER_PRICE: 240.000000
+2024-09-09 10:37:11 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:11 : 
+2024-09-09 10:37:11 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:11 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:11 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:11 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:11 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:11 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:11 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:11 : 
+2024-09-09 10:37:11 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:11 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:11 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:11 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:11 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:11 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:11 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:11 : 
+2024-09-09 10:37:11 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:11 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:11 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:11 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:11 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:11 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:11 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:11 : 
+2024-09-09 10:37:11 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:11 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:11 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:11 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:11 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:11 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:11 : OrderDetailsService: OPEN: 900
+2024-09-09 10:37:11 : 
+2024-09-09 10:37:11 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:11 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:11 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:11 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:11 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:11 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:11 : OrderDetailsService: OPEN: 300
+2024-09-09 10:37:11 : 
+2024-09-09 10:37:11 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:11 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:11 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:11 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:11 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:11 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:11 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:11 : 
+2024-09-09 10:37:11 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:11 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:11 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:11 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:11 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:11 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:11 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:11 : 
+2024-09-09 10:37:11 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:11 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:11 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:11 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:11 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:11 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:11 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:11 : 
+2024-09-09 10:37:11 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:11 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:12 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:12 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:12 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:12 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:12 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:12 : 
+2024-09-09 10:37:12 : OrderDetailsService: FFO_CONTRACT: OPT-NIFFIN-09-Apr-2024-1850000-PE
+2024-09-09 10:37:12 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:12 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:12 : OrderDetailsService: QUANTITY: 40
+2024-09-09 10:37:12 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:12 : OrderDetailsService: ORDER_PRICE: 95.000000
+2024-09-09 10:37:12 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:12 : 
+2024-09-09 10:37:12 : OrderDetailsService: FFO_CONTRACT: OPT-NIFFIN-09-Apr-2024-1850000-PE
+2024-09-09 10:37:12 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:12 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:12 : OrderDetailsService: QUANTITY: 40
+2024-09-09 10:37:12 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:12 : OrderDetailsService: ORDER_PRICE: 95.000000
+2024-09-09 10:37:12 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:12 : 
+2024-09-09 10:37:12 : OrderDetailsService: FFO_CONTRACT: OPT-NIFFIN-09-Apr-2024-1850000-PE
+2024-09-09 10:37:12 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:12 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:12 : OrderDetailsService: QUANTITY: 40
+2024-09-09 10:37:12 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:12 : OrderDetailsService: ORDER_PRICE: 95.000000
+2024-09-09 10:37:12 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:12 : 
+2024-09-09 10:37:12 : OrderDetailsService: FFO_CONTRACT: OPT-NIFFIN-09-Apr-2024-1850000-PE
+2024-09-09 10:37:12 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:12 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:12 : OrderDetailsService: QUANTITY: 40
+2024-09-09 10:37:12 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:12 : OrderDetailsService: ORDER_PRICE: 95.000000
+2024-09-09 10:37:12 : OrderDetailsService: OPEN: 900
+2024-09-09 10:37:12 : 
+2024-09-09 10:37:12 : OrderDetailsService: FFO_CONTRACT: OPT-NIFFIN-09-Apr-2024-1850000-PE
+2024-09-09 10:37:12 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:12 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:12 : OrderDetailsService: QUANTITY: 40
+2024-09-09 10:37:12 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:12 : OrderDetailsService: ORDER_PRICE: 95.000000
+2024-09-09 10:37:12 : OrderDetailsService: OPEN: 300
+2024-09-09 10:37:12 : 
+2024-09-09 10:37:12 : OrderDetailsService: FFO_CONTRACT: OPT-NIFFIN-09-Apr-2024-1850000-PE
+2024-09-09 10:37:12 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:12 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:12 : OrderDetailsService: QUANTITY: 40
+2024-09-09 10:37:12 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:12 : OrderDetailsService: ORDER_PRICE: 95.000000
+2024-09-09 10:37:12 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:12 : 
+2024-09-09 10:37:12 : OrderDetailsService: FFO_CONTRACT: OPT-NIFFIN-09-Apr-2024-1850000-PE
+2024-09-09 10:37:12 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:12 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:12 : OrderDetailsService: QUANTITY: 40
+2024-09-09 10:37:12 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:12 : OrderDetailsService: ORDER_PRICE: 95.000000
+2024-09-09 10:37:12 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:12 : 
+2024-09-09 10:37:12 : OrderDetailsService: FFO_CONTRACT: OPT-NIFFIN-09-Apr-2024-1850000-PE
+2024-09-09 10:37:12 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:12 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:12 : OrderDetailsService: QUANTITY: 40
+2024-09-09 10:37:12 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:12 : OrderDetailsService: ORDER_PRICE: 95.000000
+2024-09-09 10:37:12 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:12 : 
+2024-09-09 10:37:12 : OrderDetailsService: FFO_CONTRACT: OPT-NIFFIN-09-Apr-2024-1850000-PE
+2024-09-09 10:37:12 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:12 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:12 : OrderDetailsService: QUANTITY: 40
+2024-09-09 10:37:12 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:12 : OrderDetailsService: ORDER_PRICE: 95.000000
+2024-09-09 10:37:12 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:12 : 
+2024-09-09 10:37:12 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:13 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:13 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:13 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:13 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:13 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:13 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:13 : 
+2024-09-09 10:37:13 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:13 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:13 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:13 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:13 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:13 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:13 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:13 : 
+2024-09-09 10:37:13 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:13 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:13 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:13 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:13 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:13 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:13 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:13 : 
+2024-09-09 10:37:13 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:13 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:13 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:13 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:13 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:13 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:13 : OrderDetailsService: OPEN: 900
+2024-09-09 10:37:13 : 
+2024-09-09 10:37:13 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:13 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:13 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:13 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:13 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:13 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:13 : OrderDetailsService: OPEN: 300
+2024-09-09 10:37:13 : 
+2024-09-09 10:37:13 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:13 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:13 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:13 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:13 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:13 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:13 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:13 : 
+2024-09-09 10:37:13 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:13 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:13 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:13 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:13 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:13 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:13 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:13 : 
+2024-09-09 10:37:13 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:13 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:13 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:13 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:13 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:13 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:13 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:13 : 
+2024-09-09 10:37:13 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-29-May-2024
+2024-09-09 10:37:13 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:13 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:13 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:13 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:13 : OrderDetailsService: ORDER_PRICE: 4809810.000000
+2024-09-09 10:37:13 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:13 : 
+2024-09-09 10:37:13 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:13 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:13 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:13 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:13 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:13 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:13 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:13 : 
+2024-09-09 10:37:13 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:13 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:13 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:13 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:13 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:13 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:13 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:13 : 
+2024-09-09 10:37:13 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:13 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:13 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:13 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:13 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:13 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:13 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:13 : 
+2024-09-09 10:37:13 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:13 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:13 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:13 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:13 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:13 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:13 : OrderDetailsService: OPEN: 900
+2024-09-09 10:37:13 : 
+2024-09-09 10:37:13 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:13 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:13 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:14 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:14 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:14 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:14 : OrderDetailsService: OPEN: 300
+2024-09-09 10:37:14 : 
+2024-09-09 10:37:14 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:14 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:14 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:14 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:14 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:14 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:14 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:14 : 
+2024-09-09 10:37:14 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:14 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:14 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:14 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:14 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:14 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:14 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:14 : 
+2024-09-09 10:37:14 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:14 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:14 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:14 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:14 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:14 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:14 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:14 : 
+2024-09-09 10:37:14 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:14 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:14 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:14 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:14 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:14 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:14 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:14 : 
+2024-09-09 10:37:14 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-30-May-2024
+2024-09-09 10:37:14 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:14 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:14 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:14 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:14 : OrderDetailsService: ORDER_PRICE: 267500.000000
+2024-09-09 10:37:14 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:14 : 
+2024-09-09 10:37:14 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-30-May-2024
+2024-09-09 10:37:14 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:14 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:14 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:14 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:14 : OrderDetailsService: ORDER_PRICE: 267500.000000
+2024-09-09 10:37:14 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:14 : 
+2024-09-09 10:37:14 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-30-May-2024
+2024-09-09 10:37:14 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:14 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:14 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:14 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:14 : OrderDetailsService: ORDER_PRICE: 267500.000000
+2024-09-09 10:37:14 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:14 : 
+2024-09-09 10:37:14 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-30-May-2024
+2024-09-09 10:37:14 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:14 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:14 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:14 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:14 : OrderDetailsService: ORDER_PRICE: 267500.000000
+2024-09-09 10:37:14 : OrderDetailsService: OPEN: 900
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-30-May-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 267500.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 300
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-30-May-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 267500.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-30-May-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 267500.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-30-May-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 267500.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-30-May-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 267500.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-30-May-2024-260000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 15700.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-30-May-2024-260000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 15700.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-30-May-2024-260000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 15700.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-30-May-2024-260000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 15700.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 900
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-30-May-2024-260000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 15700.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 300
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-30-May-2024-260000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 15700.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-30-May-2024-260000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 15700.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-30-May-2024-260000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 15700.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-30-May-2024-260000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 15700.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 27800.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 27800.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 27800.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 27800.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 900
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 27800.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 300
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 27800.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 27800.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 27800.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-CE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 27800.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-26-Jun-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 4840085.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-26-Jun-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 4840085.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-26-Jun-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 4840085.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-26-Jun-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 4840085.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 900
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-26-Jun-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 4840085.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 300
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-26-Jun-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 4840085.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-26-Jun-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 4840085.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-26-Jun-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 4840085.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-26-Jun-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 4840085.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 900
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 300
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-25-Apr-2024-240000-PE
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 905.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 268650.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 268650.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 268650.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 268650.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 900
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:15 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:15 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:15 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:15 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:15 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:15 : OrderDetailsService: ORDER_PRICE: 268650.000000
+2024-09-09 10:37:15 : OrderDetailsService: OPEN: 300
+2024-09-09 10:37:15 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 268650.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 268650.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 268650.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 268650.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-NIFTY-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 50
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 2283000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-NIFTY-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 50
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 2283000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-NIFTY-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 50
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 2283000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-NIFTY-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 50
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 2283000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 900
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-NIFTY-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 50
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 2283000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 300
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-NIFTY-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 50
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 2283000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-NIFTY-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 50
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 2283000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-NIFTY-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 50
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 2283000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-NIFTY-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 08-Apr-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: SELL
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 50
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 2283000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 25-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 262845.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 25-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 262845.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 25-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 262845.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 25-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 262845.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 900
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 25-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 262845.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 300
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 25-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 262845.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 25-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 262845.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 25-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 262845.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-ACC-27-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 25-Jun-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 262845.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-28-Mar-2024-220000-CE
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 05-Mar-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: O
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 44000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-28-Mar-2024-220000-CE
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 05-Mar-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: O
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 44000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-28-Mar-2024-220000-CE
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 05-Mar-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: O
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 44000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-28-Mar-2024-220000-CE
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 05-Mar-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: O
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 44000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 900
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-28-Mar-2024-220000-CE
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 05-Mar-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: O
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 44000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 300
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-28-Mar-2024-220000-CE
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 05-Mar-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: O
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 44000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-28-Mar-2024-220000-CE
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 05-Mar-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: O
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 44000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-28-Mar-2024-220000-CE
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 05-Mar-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: O
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 44000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: OPT-ACC-28-Mar-2024-220000-CE
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 05-Mar-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 300
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: O
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 44000.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-31-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 02-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 5169005.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-31-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 02-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 5169005.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-31-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 02-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 5169005.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-31-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 02-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 5169005.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 900
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-31-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 02-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 5169005.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 300
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-31-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 02-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 5169005.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-31-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 02-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 5169005.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-31-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 02-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 5169005.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 
+2024-09-09 10:37:16 : OrderDetailsService: FFO_CONTRACT: FUT-CNXBAN-31-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: VTC_DATE: 02-Jul-2024
+2024-09-09 10:37:16 : OrderDetailsService: BUY_SELL: BUY
+2024-09-09 10:37:16 : OrderDetailsService: QUANTITY: 15
+2024-09-09 10:37:16 : OrderDetailsService: STATUS: Q
+2024-09-09 10:37:16 : OrderDetailsService: ORDER_PRICE: 5169005.000000
+2024-09-09 10:37:16 : OrderDetailsService: OPEN: 0
+2024-09-09 10:37:16 : 

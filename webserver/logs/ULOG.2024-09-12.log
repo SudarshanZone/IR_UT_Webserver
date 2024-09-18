@@ -1,0 +1,27 @@
+2024-09-12 11:13:25 : Received request to fetch Positions details for UCCID: 8989890000
+2024-09-12 11:13:27 : Successfully fetched order details for UCCID: 8989890000
+2024-09-12 11:28:05 : Web server is running on :8080
+2024-09-12 11:28:15 : Received request to fetch Positions details for UCCID: 8989890000
+2024-09-12 11:28:20 : Successfully fetched order details for UCCID: 8989890000
+2024-09-12 11:32:12 : Web server is running on :8080
+2024-09-12 11:32:22 : Received request to fetch Positions details for UCCID: 8989890000
+2024-09-12 11:32:24 : Successfully fetched order details for UCCID: 8989890000
+2024-09-12 12:34:31 : Web server is running on :8080
+2024-09-12 12:34:40 : Received request to fetch Positions details for UCCID: 8989890000
+2024-09-12 12:34:42 : Successfully fetched order details for UCCID: 8989890000
+2024-09-12 12:52:42 : Web server is running on :8080
+2024-09-12 12:52:53 : Received request to fetch Positions details for UCCID: 8989890000
+2024-09-12 12:52:54 : Error fetching FNO positions: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:50051: connectex: No connection could be made because the target machine actively refused it."
+2024-09-12 12:53:14 : Received request to fetch Positions details for UCCID: 8989890000
+2024-09-12 12:53:19 : Successfully fetched order details for UCCID: 8989890000
+2024-09-12 23:08:15 : Web server is running on :8080
+2024-09-12 23:08:15 : Failed to start server: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2024-09-12 23:08:47 : Web server is running on :8080
+2024-09-12 23:08:47 : Failed to start server: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2024-09-12 23:10:52 : Web server is running on :8080
+2024-09-12 23:14:22 : Received request to fetch Positions details for UCCID: 8509016896
+2024-09-12 23:14:23 : Successfully fetched order details for UCCID: 8509016896
+2024-09-12 23:15:03 : Received request to fetch Positions details for UCCID: 8500172697
+2024-09-12 23:15:07 : Successfully fetched order details for UCCID: 8500172697
+2024-09-12 23:18:50 : Web server is running on :8080
+2024-09-12 23:20:31 : Web server is running on :8080

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package trdrec;
+
+option go_package=".";
+
+service DataService {
+  rpc GetCSV (CSVDataRequest) returns (stream CSVDataResponse);
+}
+
+message CSVDataRequest {
+  string type=1;
+  string sub_type=2;
+}
+
+message CSVDataResponse {
+  string data = 1;
+}

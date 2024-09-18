@@ -1,0 +1,68 @@
+
+
+//ApplicationServer\Open_Pos\internal\positions\fno_pos.proto
+syntax = "proto3";
+
+package positions;
+
+option go_package = ".";
+
+// Request message
+service FnoPositionService {
+    rpc GetFNOPosition(FnoPositionRequest) returns (FcpDetailListResponse);
+}
+
+message FnoPositionRequest {
+    string FCP_CLM_MTCH_ACCNT = 1;
+}
+
+message FcpDetail {
+    optional string FFO_CONTRACT = 1;
+    optional string FFO_PSTN  = 2;
+    optional int64 FCP_OPNPSTN_QTY = 3; //int32 -> int64
+    optional double FFO_AVG_PRC = 4;  //float -> double
+    optional string FCP_XCHNG_CD = 5;   
+    optional int64 FCP_IBUY_QTY = 6;  //int32 -> int64
+    optional string FCP_CLM_MTCH_ACCNT = 7;
+    optional string FCP_PRDCT_TYP = 8;
+    optional string FCP_INDSTK = 9;
+    optional string FCP_UNDRLYNG = 10;
+    optional string FCP_EXPRY_DT = 11;
+    optional string FCP_EXER_TYP = 12;
+    optional string FCP_OPT_TYP = 13;
+    optional int64 FCP_STRK_PRC = 14;  //float -> int64
+    optional string FCP_UCC_CD = 15;
+    optional string FCP_OPNPSTN_FLW = 16;
+
+    // New fields
+    optional double FCP_IBUY_ORD_VAL = 17;  //float ->  double
+    optional int64 FCP_ISELL_QTY = 18;     //int32 -> int64
+    optional double FCP_ISELL_ORD_VAL = 19; //float -> double
+    optional int64 FCP_EXBUY_QTY = 20;     //int32 -> int64
+    optional double FCP_EXBUY_ORD_VAL = 21;  //float -> double
+    optional int64 FCP_EXSELL_QTY = 22;     //int32 -> int64
+    optional double FCP_EXSELL_ORD_VAL = 23;  //float -> double
+    optional int64 FCP_BUY_EXCTD_QTY = 24;   //int32 -> int64
+    optional int64 FCP_SELL_EXCTD_QTY = 25;  //int32 -> int64
+    optional double FCP_OPNPSTN_VAL = 26;    //float -> double
+    optional int64 FCP_EXRC_QTY = 27;    //int32 ->int64
+    optional int64 FCP_ASGND_QTY = 28;   //int32 -> int64
+    optional double FCP_OPT_PREMIUM = 29;  //float -> double
+    optional double FCP_MTM_OPN_VAL = 30;  //float -> double
+    optional double FCP_IMTM_OPN_VAL = 31; //float -> double
+    optional double FCP_UDLVRY_MRGN = 32; //float -> double
+    optional string FCP_MTM_FLG = 33; 
+    optional double FCP_TRG_PRC = 34;  //float -> double
+    optional double FCP_MIN_TRG_PRC = 35; //float -> double
+    optional string FCP_DLVRY_MODE_FLAG = 36; 
+    optional double FCP_DLVRY_OBLGAMT_BLCKD = 37; //string -> double
+    optional int64 FCP_DLVRY_QTY_BLCKD = 38;  //string -> int64
+    optional string FCP_MRGN_CHNG_DT = 39;
+}
+
+message FcpDetailListResponse {
+    repeated FcpDetail FcpDetails = 1;
+}
+
+//Updated internal/generated to generated
+// protoc --proto_path=internal --go_out=generated --go-grpc_out=generated internal/fnoopn/fno_pos.proto

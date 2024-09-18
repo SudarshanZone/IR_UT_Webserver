@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+package comordr;
+
+option go_package = ".";
+
+//import "google/protobuf/wrappers.proto";
+
+service C_OrderService {
+    rpc GetComOrder(ComOrderRequest) returns (ComOrderResponse);
+}
+message ComOrderRequest {
+    string cod_clm_mtch_accnt = 1;
+}
+message ComOrdrDtls {
+ string cod_clm_mtch_accnt = 1;
+ string cod_prdct_typ = 2;
+ string cod_undrlyng = 3;
+ string cod_expry_dt = 4;
+ float cod_lmt_rt = 5;
+ string cod_ordr_valid_dt = 6;
+ string cod_ordr_flw = 7;
+ int32 cod_ordr_tot_qty = 8;
+ string cod_ordr_stts = 9;
+ float ccp_opnpstn_qty = 10;
+}
+
+message ComOrderResponse {
+    repeated ComOrdrDtls ord_dtls = 1;
+}

@@ -1,0 +1,8 @@
+
+[database]
+host = 10.221.173.231
+port = 5432
+user = irra_user
+password = irra_user
+name = irra_db
+sslmode = disable
